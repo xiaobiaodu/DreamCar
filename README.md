@@ -5,14 +5,13 @@
 <h5 align="center">
 
 [![webpage](https://img.shields.io/badge/Webpage-blue)](https://xiaobiaodu.github.io/dreamcar-project/)
-
-[//]: # ([![arXiv]&#40;https://img.shields.io/badge/Arxiv-2312.13271-b31b1b.svg?logo=arXiv&#41;]&#40; link &#41;)
-[//]: # ([![License: MIT]&#40;https://img.shields.io/badge/License-MIT-yellow.svg&#41;]&#40;https://github.com/PKU-YuanGroup/repaint123/blob/main/LICENSE&#41; )
+[![arXiv](https://img.shields.io/badge/Arxiv-2407.16988-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2407.16988)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xiaobiaodu/DreamCar/blob/master/LICENSE) 
 
 
 </h5>
 
-[//]: # (## [Project page]&#40;https://xiaobiaodu.github.io/dreamcar-project/&#41; | [Paper]&#40; link &#41; )
+## [Project page](https://xiaobiaodu.github.io/dreamcar-project/) | [Paper](https://arxiv.org/abs/2407.16988) 
 
 
 <img src="assets/method.png"/>
@@ -31,8 +30,6 @@ DreamCar can reconstruct a completed 3D car model in the moving-forward scene gi
 ## 🚩 **Updates**
 
 Welcome to **watch** 👀 this repository for the latest updates.
-
-[//]: # (✅ **[2024.7.23]** : We have released our paper, Repaint123 on [arXiv]&#40;link&#41;.)
 
 ✅ **[2024.7.23]** : Release [project page](https://xiaobiaodu.github.io/dreamcar-project/).
 
