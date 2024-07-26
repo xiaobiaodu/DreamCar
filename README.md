@@ -153,25 +153,19 @@ This work is built on many amazing research works and open-source projects, than
 
 
 
-[//]: # (## ✏️ Citation)
+## ✏️ Citation
 
-[//]: # (If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.)
+If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 
-[//]: # ()
-[//]: # (```BibTeX)
 
-[//]: # (@misc{zhang2023repaint123,)
+```BibTeX
 
-[//]: # (    title={Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting},)
-
-[//]: # (    author={Junwu Zhang and Zhenyu Tang and Yatian Pang and Xinhua Cheng and Peng Jin and Yida Wei and Wangbo Yu and Munan Ning and Li Yuan},)
-
-[//]: # (    year={2023},)
-
-[//]: # (    eprint={2312.13271},)
-
-[//]: # (    archivePrefix={arXiv},)
-
-[//]: # (    primaryClass={cs.CV})
-
-[//]: # (})
+@misc{du2024dreamcarleveragingcarspecificprior,
+      title={DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction}, 
+      author={Xiaobiao Du and Haiyang Sun and Ming Lu and Tianqing Zhu and Xin Yu},
+      year={2024},
+      eprint={2407.16988},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.16988}, 
+}
