@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 
 ### Download pre-trained models
-- **Dreamcar123**. We use our `dreamcar123.ckpt` to provide car-specific piror. You can download it [here](https://drive.google.com/file/d/1qJ8iuY6n57PqIhyvPaonF6nBrLwk7y7H/view?usp=sharing) into `load/zero123/`. 
+- **Dreamcar123**. We use our `dreamcar123.ckpt` to provide car-specific piror. You can download it [here](https://huggingface.co/xiaobiaodu/dreamcar123/tree/main) into `load/zero123/`. 
 -
 - **Omnidata**. We use [Omnidata](https://github.com/EPFL-VILAB/omnidata/tree/main/omnidata_tools/torch) for depth and normal predition in `preprocess_image.py` (copyed from [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)).
 ```sh
