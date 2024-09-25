@@ -1,5 +1,5 @@
 
-<h2 align="center"> <a href="https://github.com/PKU-YuanGroup/repaint123">DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction</a></h2>
+<h2 align="center"> <a href="https://github.com/xiaobiaodu/DreamCar">DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
 <h5 align="center">
